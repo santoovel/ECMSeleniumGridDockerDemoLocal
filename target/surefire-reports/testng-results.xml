@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="29399" started-at="2020-06-28T04:18:05Z" finished-at="2020-06-28T04:18:35Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="29399" started-at="2020-06-28T04:18:05Z" finished-at="2020-06-28T04:18:35Z">
+      <class name="com.selgrid.AmazonChrome">
+        <test-method status="PASS" signature="amazonchrome()[pri:0, instance:com.selgrid.AmazonChrome@56aac163]" name="amazonchrome" duration-ms="29320" started-at="2020-06-28T04:18:05Z" finished-at="2020-06-28T04:18:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazonchrome -->
+      </class> <!-- com.selgrid.AmazonChrome -->
+      <class name="com.selgrid.FlipkartFirefox">
+        <test-method status="PASS" signature="flipkartfirefox()[pri:0, instance:com.selgrid.FlipkartFirefox@1f7030a6]" name="flipkartfirefox" duration-ms="29366" started-at="2020-06-28T04:18:05Z" finished-at="2020-06-28T04:18:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flipkartfirefox -->
+      </class> <!-- com.selgrid.FlipkartFirefox -->
+      <class name="com.selgrid.WorkPlaceXT">
+        <test-method status="PASS" signature="workPlaceXTChrome()[pri:0, instance:com.selgrid.WorkPlaceXT@5a1c0542]" name="workPlaceXTChrome" duration-ms="29108" started-at="2020-06-28T04:18:05Z" finished-at="2020-06-28T04:18:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- workPlaceXTChrome -->
+      </class> <!-- com.selgrid.WorkPlaceXT -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
